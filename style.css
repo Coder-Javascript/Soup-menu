@@ -1,0 +1,19 @@
+.diena{
+            
+            font-weight: bold;
+
+        }
+        img{
+            width: 250px;
+
+        }
+        a{
+
+            color: red;
+            text-decoration: none;
+            font-size: large;
+        }
+        body{
+
+            background-color: #e0e083;
+        }
